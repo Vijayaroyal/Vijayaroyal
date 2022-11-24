@@ -1,0 +1,16 @@
+#include<stdio.h>
+int i;
+void wish(); 
+int main()
+{
+ wish();
+ return 0;
+}
+ void wish()
+ {
+ for(i=0;i<100;i++)
+  {
+  printf("❤️ Vijaya Bhaskar ❤️😍");
+  }
+}
+    
